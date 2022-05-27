@@ -1,6 +1,6 @@
-## Basic Backend App for JWT authentication using NodeJs, ExpressJs and MongoDB
+# Basic Backend App for JWT authentication using NodeJs, ExpressJs and MongoDB
 
-# How to use:
+## How to use:
 
 - Clone this repository
 - npm install
